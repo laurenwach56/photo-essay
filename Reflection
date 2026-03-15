@@ -4,10 +4,11 @@
 <head>
 <style>
   h1 {color: purple;}
+<body style="background-color:blue;">
 </style>
 </head>
 <body>
-<h1>My Expierence with GitHub and Markdown/HTML languages</h1>
-<p>
+<h1><b>My Expierence with GitHub and Markdown/HTML languages</b></h1>
+<p>I was very intimidated by the exercises we have been doing these past weeks, and I am not too confident in my ability to do them correctly when it comes down to Markdown and HTML languages. I am not even too sure if this project will turn out like it’s supposed to. Nevertheless, with GitHub, I was surprised at how easy it seemed to create a very basic webpage and to use GitHub for basic purposes. I will admit that I am still confused about these digital languages used for publishing, but I believe applying these languages takes time and practice! It also feels rewarding to know, for example, how to get started using HTML and getting a file set up for it like this file! Looking at my photo essay HTML file, I noticed some small mistakes, so I fixed those up and that is just a learning curve for me. I did not notice those mistakes before, but now looking at my file through fresh eyes, I can see where I made mistakes. Depending on how this project turns out, I still cannot get images to appear, but I have been trying to go back and look at how exactly to upload images to an HMTL file. All the exercises leading to the project made it easier to navigate. However, GitHub is not verry user friendly, but I found it easy enough to make my pages. I think I spent so much time finding a certain tool or I was looking at how to rename a file for example, something as simple as renaming a file, was buried into the respiratory.</p> 
 </body>
 </html>
